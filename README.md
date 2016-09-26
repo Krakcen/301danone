@@ -3,7 +3,8 @@
 
 
 A client-sided tool to display data from different sorting algorithms (comparisons number).
-Check the [Demo](https://krakcen.github.io/301danone/index.html).
+
+Check the **[Demo](https://krakcen.github.io/301danone/index.html).**
 
 
 Installation and Usage
