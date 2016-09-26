@@ -4,15 +4,12 @@
 
 A client-sided tool to display data from different sorting algorithms (comparisons number).
 
-----------
-
 
 Installation and Usage
 -------------
 
 Just Download and Open **index.html** in your browser, it's all client-sided !
 
-----------
 
 Languages
 -------------
